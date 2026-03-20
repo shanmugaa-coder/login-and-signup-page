@@ -1,0 +1,38 @@
+body{
+    background-image:url('../img/ba.jpg'); 
+    background-attachment: fixed; 
+    background-size: cover; 
+    background-repeat: no-repeat;
+    height:100vh;
+    margin: 0;
+}
+
+h1{
+    text-align: center;
+}
+
+.Signup_box{
+    background-color: antiquewhite; 
+    border-radius:20px;
+     padding:30px; 
+     width:350px;
+}
+
+.Signup_box
+    {
+    background: rgba(255, 255, 255, 0.9); /* Slight transparency */
+    border-radius: 15px;                  /* Rounded corners */
+    box-shadow: 0 10px 30px rgba(0,0,0,0.1); /* Soft shadow for depth */
+    padding: 40px;
+}
+
+.signup_input {
+    width: 100%;
+    padding: 12px;
+    margin-top: 8px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+
+
